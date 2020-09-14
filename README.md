@@ -31,3 +31,5 @@ README.txt exists with instructions and important documentation;
 
 ● Finally, a decent amount of time was spent attempting to debug CLEA Release code, but was ultimately
 solved by Julia Lippman, PhD;
+
+● NOTE: US Presidential Election data from 1920-2016 at the COUNTY LEVEL has not been included in this repository because the file size is too large. Thus, in report functionality or nationalization output, measures may be present where data is not available. 
