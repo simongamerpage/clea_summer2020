@@ -1,0 +1,2 @@
+the file in this folder maintains an abstention vote column by city/province, whereas the version in the main folder removes this column for running through nationalization;
+that column likely should be a row, included as a candidate.

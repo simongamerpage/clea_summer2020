@@ -1,0 +1,2 @@
+this file maintains an "unmarked" column, whereas the version being sent through the nationalization script does not include this column. This column should likely be 
+contained as a candidate observation by unit_name/cst_n. 
